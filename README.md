@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah Tami</h1>
-<h3 align="center">A passionate full stack MERN web developer, based in Riyadh, Saudi Arabia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=200&color=41F72C&background=33333300&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Hi+There%F0%9F%91%8B;I'm+Abdullah+Tami.;I'm+a+Full+Stack+MERN+Developer.)](https://git.io/typing-svg)
+
 
 I'm a solution oriented, lifelong learner, full stack web developer, specialized in building fast, scalable, as well as refined web applications utilizing the industry's most recent and reliable technologies to deliver on expectations. I enjoy development because of the satisfaction I get from overcoming challenges. I'm motivated by the opportunity that web development provides to positively enhance user experience and satisfaction.
 
