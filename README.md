@@ -6,4 +6,4 @@ I'm a solution oriented, lifelong learner, full stack web developer, specialized
 Skills & Technologies: </br>
 HTML | CSS | JavaScript | Typescript | React.js | Next.js | Prisma | Redux.js | TanStack Query | Node.js | Express.js | MongoDB | Mongoose | NoSQL | Git | Github | RESTful APIs | Zod | MVC | Object-oriented-programming | Problem solving | Debugging
 
-Know about my experiences [https://abdullah-tami.vercel.app)
+Know about my experiences [https://abdullahtami.vercel.app)
